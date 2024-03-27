@@ -1,0 +1,7 @@
+---
+title: "Learning to reference figures, tables and sections"
+author: "Chayanont Piyawatcharavijit"
+date: "27/03/2024"
+format: html
+editor: visual
+---
