@@ -1,0 +1,6 @@
+"0",""
+"0","#|  label: sample_tbl"
+"0","df %>% kable(head(5))"
+"2","Error in kable_(x = c(""1.1663937"", ""-0.6519436"", ""-0.1786421"", ""0.7869169"",  : 
+  could not find function ""kable_""
+"

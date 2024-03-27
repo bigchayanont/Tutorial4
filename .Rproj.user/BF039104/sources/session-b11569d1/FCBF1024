@@ -1,0 +1,31 @@
+{
+    "id": "FCBF1024",
+    "path": "~/Desktop/Monash/ETC5513/Tutorial/Tutorial4/Tutorial4.qmd",
+    "project_path": "Tutorial4.qmd",
+    "type": "quarto_markdown",
+    "hash": "0",
+    "contents": "",
+    "dirty": true,
+    "created": 1711517011301.0,
+    "source_on_save": true,
+    "relative_order": 1,
+    "properties": {
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "source_window_id": "",
+        "Source": "Source",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "rmdVisualModeLocation": "607:737.2222290039062",
+        "cursorPosition": "36,26",
+        "scrollLine": "30"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1711520116,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1711520163681,
+    "read_only": false,
+    "read_only_alternatives": []
+}

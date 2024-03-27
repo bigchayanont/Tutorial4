@@ -1,0 +1,3 @@
+"0",""
+"0","#|  label: sample_tbl"
+"0","df %>% head(5) %>% kable()"
